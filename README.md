@@ -37,7 +37,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&show_icons=true&theme=holi&layout=compact&rank_icon=percentile&border_color=668dc8&langs_count=10&bg_color=00000000"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=Amaansande&show_icons=true&theme=holi&layout=compact&rank_icon=percentile&border_color=668dc8&langs_count=10&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
