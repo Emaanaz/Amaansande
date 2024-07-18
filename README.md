@@ -25,11 +25,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&show_icons=true&theme=holi&border_color=668dc8&hide=stars&show=prs_merged_percentage&bg_color=00000000"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=Amaansande&show_icons=true&theme=holi&border_color=668dc8&hide=stars&show=prs_merged_percentage&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&show_icons=true&theme=shadow_blue&border_color=668dc8&hide=stars&show=prs_merged_percentage"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=Amaansande&show_icons=true&theme=shadow_blue&border_color=668dc8&hide=stars&show=prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img  align="right" src="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&hide=stars&show_icons=true&show=prs_merged_percentage" />
