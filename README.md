@@ -16,7 +16,7 @@
 
 
 
-⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
+<!--⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*-->
 
  </div>
  
@@ -76,7 +76,7 @@
 
 <br/>
 
-
+<!--
 #### 📊 Stats
 
 <picture>
@@ -88,7 +88,7 @@
     srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=Amaansande&show_icons=true&theme=shadow_blue&border_color=668dc8&hide=stars&show=prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  align="right" src="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&hide=stars&show_icons=true&show=prs_merged_percentage" />
+  <img  align="right" src="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=Amaansande&hide=stars&show_icons=true&show=prs_merged_percentage" />
 </picture>
 
 <picture>
@@ -100,10 +100,8 @@
     srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=Amaansande&show_icons=true&theme=shadow_blue&layout=compact&rank_icon=percentile&border_color=668dc8&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&show_icons=true&rank_icon=percentile&border_color=668dc8&langs_count=10" />
+  <img src="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=Amaansande&show_icons=true&rank_icon=percentile&border_color=668dc8&langs_count=10" />
 </picture>
 
 ---
-
-#### 🤝 Collaboration
-Open to collaborating on geospatial projects, open data initiatives, and open-source GIS development. Let's connect and innovate together!
+-->
