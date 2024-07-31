@@ -1,25 +1,81 @@
-### 👋 Hi, I’m @mjanez
-🌍 Geospatial enthusiast and software developer working mainly with containers 🐋 & Python 🐍. Passionate about data, spatial analysis and environmental solutions. Specialised in Geographic Information Systems (GIS) development, Open Data portals and compliance with international standards (ISO, INSPIRE, OGC, DCAT).
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
----
-#### 👷 Check out what I'm currently working on ...
-##### GIS & Open Data
-- [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines) [profiles](https://en.wikipedia.org/wiki/Geospatial_metadata).
-- [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across different environments using [Ansible](https://www.ansible.com/).
-- [mjanez/docker-webgis](https://github.com/mjanez/docker-webgis) - A GIS infrastructure with Geoserver-PostGIS and a full-featured OpenLayers based map viewer and editor.
-- [mjanez/geopostgis_manager](https://github.com/mjanez/geopostgis_manager) - Spatial dataset manager for automated PostGIS-Geoserver workflows.
-- [opendatagis/mapa-riesgos](https://github.com/OpenDataGIS/mapa-riesgos) - Spatial Data Infrastructure used to distribute data and services.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Sande!;" />
+</h1>
 
-##### CKAN improvements
-- [mjanez/ckan-pycsw](https://github.com/mjanez/ckan-pycsw) - [pycsw](https://pycsw.org/) endpoint (OGC) for spatial open data portals (GeoDCAT-AP/INSPIRE).
-- [mjanez-ckan-mqa](https://github.com/mjanez/ckan-mqa) - Docker Compose for [Metadata Quality Assessment (MQA)](https://data.europa.eu/mqa/methodology) on CKAN and European Data Portal catalogs.
-- [mjanez/ckan-ogc](https://github.com/mjanez/ckan-ogc) - Docker-based harvesters (OGC, CSW, LOD,...) for CKAN spatial open data portals.
-- [mjanez/ckanext-schemingdcat](https://github.com/mjanez/ckanext-schemingdcat) - Improved ckanext-scheming with DCAT, DCAT-AP and GeoDCAT-AP/INSPIRE custom schemas and harvesters, UI improvements and more tools!
+<h3 align="center">A passionate software developer from India 🇨🇦</h3>
 
-##### Your One-Stop Shop for All Things CKAN
- - [mjanez/ckan-docs](https://github.com/mjanez/ckan-docs) - [CKAN Docs](https://mjanez.github.io/ckan-docs): A comprehensive guide for deploying CKAN in various environments, complete with API documentation, tips, and more, all in a multilang Docusaurus website (`EN`/`ES`).
-- [mjanez/ckan-openapi](https://github.com/mjanez/ckan-openapi) - Documents the CKAN API using [Swagger](https://swagger.io/), offering clear and concise reference documentation for CKAN users and developers.
----
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on ****
+ 
+ 🌱 I’m currently learning *Machine learning & Deep learning, AWS*
+
+
+
+⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:sandeaman03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/aman-sande/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Amaansande" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Amaansande&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Amaansande&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Amaansande&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href= target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
 
 #### 📊 Stats
 
